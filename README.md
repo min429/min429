@@ -60,5 +60,5 @@
 - 정보처리기사 - 한국산업인력공단
 - OPIC (IM2) - ACTFL
 
-### Experiences
+### Educations
 - 프로그래머스 데브코스 24.12.18 ~ 진행중
