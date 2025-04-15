@@ -59,10 +59,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min429&theme=transparent&hide=c#.html)](https://github.com/anuraghazra/github-readme-stats)
 
-### Certificates
+### 📇 Certificates
 - SQLD - 한국데이터산업진흥원
 - 정보처리기사 - 한국산업인력공단
 - OPIC (IM2) - ACTFL
 
-### Educations
+### 🎓 Educations
 - 프로그래머스 데브코스 24.12.18 ~ 진행중
