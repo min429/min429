@@ -23,14 +23,12 @@
 
 # Seungmin Lee
 - Backend Developer
-- Computer Science (Bachelor)
+- Computer Science (bachelor)
 
 ### 💻 Projects
+- [픽고](https://github.com/min429/WEB4_5_ServerSOS_BE) (BE)
 - [코잉](https://github.com/prgrms-be-devcourse/NBE4-5-2-Team09) (BE)
-- [메이트립](https://github.com/dnd-side-project/dnd-11th-1-backend) (BE)
-- [Space](https://github.com/min429/space) (BE, App)
-- [Soda](https://github.com/min429/Soda) (App)
-- [Campustaurant](https://github.com/min429/Campustaurant) (App)
+- [메이트립](https://github.com/min429/dnd-11th-1-backend) (BE)
 
 ### 💡 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsm990429)](https://solved.ac/lsm990429/)
@@ -38,21 +36,15 @@
 - 2024.11.23 ICPC 본선(서울)
 
 ### 📚 Tech Stacks
-#### Frequent
+####
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### Experienced
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🐱 Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=min429&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,4 +57,4 @@
 - OPIC (IM2) - ACTFL
 
 ### 🎓 Educations
-- 프로그래머스 데브코스 24.12.18 ~ 진행중
+- 프로그래머스 데브코스 24.12.18 ~ 25.06.03
